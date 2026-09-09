@@ -20,13 +20,13 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=SangHuynhVan272&amp;show_icons=true&amp;theme=react&amp;hide_border=true"
-    alt="Sang Huynh Van's GitHub statistics"
+    src="https://github-stats-extended.vercel.app/api?username=SangHuynhVan272&amp;show_icons=true&amp;theme=react&amp;hide_border=true;cache_seconds=21600"
+    alt="Van Sang Huynh's GitHub statistics"
   />
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=SangHuynhVan272&amp;layout=compact&amp;theme=react&amp;hide_border=true"
-    alt="Sang Huynh Van's most used languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=SangHuynhVan272&amp;layout=compact&amp;theme=react&amp;hide_border=true;cache_seconds=21600"
+    alt="Van Sang Huynh's most used languages"
   />
 </p>
 
