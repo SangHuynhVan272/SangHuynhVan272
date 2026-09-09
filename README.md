@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sang Huynh Van</h1>
+<h1 align="center">Hi, I'm Van Sang Huynh</h1>
 
 <p align="center">
   Robotics · Reinforcement Learning · Sim2Real
