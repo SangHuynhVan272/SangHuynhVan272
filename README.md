@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/SangHuynhVan272/sim2real-line-following-robot">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin?username=SangHuynhVan272&amp;repo=sim2real-line-following-robot&amp;theme=tokyonight&amp;hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin?username=SangHuynhVan272&amp;repo=sim2real-line-following-robot&amp;theme=tokyonight&amp;hide_border=true;cache_seconds=21600"
       alt="Sim2Real Line-Following Robot"
     />
   </a>
